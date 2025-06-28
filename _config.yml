@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Li ZhuoJun / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Li ZhuoJun"
-description              : &description "A graduate of BUPT"
+description              : &description "A undergraduate student from BUPT"
 url                      : "https://violetlz.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "violetlz/violetlz.github.io"
@@ -23,13 +23,13 @@ repository               : "violetlz/violetlz.github.io"
 author:
   # Biographic information
   avatar           : "lzj.png"
-  name             : "Li ZhuoJun"
+  name             : "Li ZhuoJun(李卓君)"
   pronouns         : # example: "she/her"  
   bio              : "StarFinder"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Beijing University of Post and Telecommunication"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhuojunli@bupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
